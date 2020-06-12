@@ -90,7 +90,7 @@ We then created a Javascript file called plots.js. This file contains all the lo
 ## Push to AWS:
 We then zipped all the relevant files and folders and uploaded them to an environment on AWS using the service called "Elastic Beanstalk". This environment then provided us a URL for our webpage as follows:
 <br>
-http://20200610v1-env.eba-3ip3pqzu.us-east-2.elasticbeanstalk.com/
+http://project2final-env.eba-jy95kuzb.us-east-2.elasticbeanstalk.com/
 <hr>
 
 ## Attached below is a screenshot of the Top Half of our webpage. 
